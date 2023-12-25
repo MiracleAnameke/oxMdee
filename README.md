@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
  - [Virtual Machine Setup and Configuration Lab](https://github.com/oxMdee/Virtual-Machine-Setup-and-Configuration-Lab/blob/main/README.md)
+ - [Cybersecurity Vulnerability and Exposure Report](https://github.com/oxMdee/Cybersecurity-Vulnerability-and-Exposure-Report)
 
 <h2> 🎓 Certifications: </h2>
 
