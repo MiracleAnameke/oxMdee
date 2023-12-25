@@ -5,6 +5,7 @@
  - [Virtual Machine Setup and Configuration Lab](https://github.com/oxMdee/Virtual-Machine-Setup-and-Configuration-Lab/blob/main/README.md)
  - [Cybersecurity Vulnerability and Exposure Report](https://github.com/oxMdee/Cybersecurity-Vulnerability-and-Exposure-Report)
  - [WSUS Group Policy Configuration](https://github.com/oxMdee/WSUS-Group-Policy-Configuration/blob/main/README.md)
+ - [Permissions](https://github.com/oxMdee/Windows-Permissions-Lab-Exercise)
 
 <h2> 🎓 Certifications: </h2>
 
