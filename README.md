@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - [Active Directory Home Lab](https://github.com/oxMdee/LABURL)
+ - [Virtual Machine Setup and Configuration Lab](https://github.com/oxMdee/Virtual-Machine-Setup-and-Configuration-Lab/blob/main/README.md)
 
 <h2> 🎓 Certifications: </h2>
 
