@@ -7,6 +7,7 @@
  - [WSUS Group Policy Configuration](https://github.com/oxMdee/WSUS-Group-Policy-Configuration/blob/main/README.md)
  - [Permissions](https://github.com/oxMdee/Windows-Permissions-Lab-Exercise)
  - [Process Explorer Access Based Enumeration](https://github.com/oxMdee/Process-Explorer-Access-Based-Enumeration/blob/main/README.md)
+ - [MBSA, BPA and SCW](https://github.com/oxMdee/MBSA-BPA-and-SCW/blob/main/README.md)
 
 <h2> 🎓 Certifications: </h2>
 
