@@ -11,6 +11,7 @@
  - [Share and NTFS Permissions](https://github.com/oxMdee/Share-and-NTFS-Permissions-Configuration/blob/main/README.md)
  - [ESXi and vSphere Client](https://github.com/oxMdee/ESXi-and-vSphere-Client-Configuration/blob/main/README.md)
  - [Linux Security](https://github.com/oxMdee/Linux-Security/blob/main/README.md)
+ - [initctl and sudo](https://github.com/oxMdee/initctl-and-sudo/blob/main/README.md)
 
 <h2> 🎓 Certifications: </h2>
 
