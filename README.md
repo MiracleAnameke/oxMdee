@@ -9,6 +9,7 @@
  - [Process Explorer Access Based Enumeration](https://github.com/oxMdee/Process-Explorer-Access-Based-Enumeration/blob/main/README.md)
  - [MBSA, BPA and SCW](https://github.com/oxMdee/MBSA-BPA-and-SCW/blob/main/README.md)
  - [Share and NTFS Permissions](https://github.com/oxMdee/Share-and-NTFS-Permissions-Configuration/blob/main/README.md)
+ - [ESXi and vSphere Client](https://github.com/oxMdee/ESXi-and-vSphere-Client-Configuration/blob/main/README.md)
 
 <h2> 🎓 Certifications: </h2>
 
