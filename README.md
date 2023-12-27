@@ -10,6 +10,7 @@
  - [MBSA, BPA and SCW](https://github.com/oxMdee/MBSA-BPA-and-SCW/blob/main/README.md)
  - [Share and NTFS Permissions](https://github.com/oxMdee/Share-and-NTFS-Permissions-Configuration/blob/main/README.md)
  - [ESXi and vSphere Client](https://github.com/oxMdee/ESXi-and-vSphere-Client-Configuration/blob/main/README.md)
+ - [Linux Security](https://github.com/oxMdee/Linux-Security/blob/main/README.md)
 
 <h2> 🎓 Certifications: </h2>
 
