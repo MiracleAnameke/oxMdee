@@ -14,6 +14,7 @@
  - [initctl and sudo](https://github.com/oxMdee/initctl-and-sudo/blob/main/README.md)
  - [Initial VM Lab Setup for Web Security](https://github.com/oxMdee/Initial-VM-Lab-Setup-for-Web-Security/blob/main/README.md)
  - [Basic HTML and CSS](https://github.com/oxMdee/Basic-HTML-CSS/blob/main/README.md)
+ - [Basic Web Security](https://github.com/oxMdee/Basic-Web-Security/blob/main/README.md)
 
 <h2> 🎓 Certifications: </h2>
 
