@@ -19,6 +19,7 @@
  - [Web App Enumeration](https://github.com/oxMdee/Web-App-Enumeration-HTTP/blob/main/README.md)
  - [PHP and SQL](https://github.com/oxMdee/PHP-SQL/blob/main/README.md)
  - [SQL Attacks](https://github.com/oxMdee/SQL-Attacks/blob/main/README.md)
+ - [Session Attacks](https://github.com/oxMdee/Session-Attacks/blob/main/README.md)
 
 <h2> 🎓 Certifications: </h2>
 
