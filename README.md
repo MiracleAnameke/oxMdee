@@ -22,6 +22,7 @@
  - [Session Attacks](https://github.com/oxMdee/Session-Attacks/blob/main/README.md)
  - [Web Pen Test Tools](https://github.com/oxMdee/Web-App-Pen-Test-Tools/blob/main/README.md)
  - [Anti Virus Automation](https://github.com/oxMdee/Anti-Virus-Automation/blob/main/README.md)
+ - [Social Media and TOR](https://github.com/oxMdee/Social-Media-TOR/blob/main/README.md)
 
 <h2> 🎓 Certifications: </h2>
 
