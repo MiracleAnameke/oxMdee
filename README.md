@@ -34,6 +34,7 @@ Information Security:
  - [Port Access Security](https://github.com/MiracleAnameke/Port-Access-Security/blob/main/README.md)
  - [Steganography](https://github.com/MiracleAnameke/Steganography/blob/main/README.md)
  - [Password Cracking](https://github.com/MiracleAnameke/Password-Cracking/blob/main/README.md)
+ - [Backdoors Trojans](https://github.com/MiracleAnameke/-Backdoors-Trojans/blob/main/README.md)
 
 <h2> 🎓 Education: </h2>
 
