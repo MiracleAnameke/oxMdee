@@ -35,6 +35,7 @@ Information Security:
  - [Steganography](https://github.com/MiracleAnameke/Steganography/blob/main/README.md)
  - [Password Cracking](https://github.com/MiracleAnameke/Password-Cracking/blob/main/README.md)
  - [Backdoors Trojans](https://github.com/MiracleAnameke/-Backdoors-Trojans/blob/main/README.md)
+ - [Cover Tracks](https://github.com/MiracleAnameke/ADS-Cover-Tracks/blob/main/README.md)
 
 <h2> 🎓 Education: </h2>
 
