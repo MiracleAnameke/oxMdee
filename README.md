@@ -32,6 +32,7 @@ Web Security:
 Information Security:
    
  - [Port Access Security](https://github.com/MiracleAnameke/Port-Access-Security/blob/main/README.md)
+ - [Steganography](https://github.com/MiracleAnameke/Steganography/blob/main/README.md)
 
 <h2> 🎓 Education: </h2>
 
