@@ -37,9 +37,14 @@ Information Security:
  - [Backdoors Trojans](https://github.com/MiracleAnameke/-Backdoors-Trojans/blob/main/README.md)
  - [Cover Tracks](https://github.com/MiracleAnameke/ADS-Cover-Tracks/blob/main/README.md)
 
-Security Information and Event Management(SIEM)
+Security Information and Event Management(SIEM):
 
  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/MiracleAnameke/Sentinel-Lab/tree/main)
+
+Monitoring & Incident Response:
+
+
+Ethical Hacking & Exploits:
 
 <h2> 🎓 Education: </h2>
 
