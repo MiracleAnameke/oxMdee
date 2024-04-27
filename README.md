@@ -43,6 +43,7 @@ Security Information and Event Management(SIEM):
 
 Python:
 
+ - [Password Generator](https://github.com/MiracleAnameke/Complex-Password-Generator/blob/main/README.md)
 
 Monitoring & Incident Response:
 
